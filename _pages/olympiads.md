@@ -15,7 +15,7 @@ Since 2020, I've been actively contributing to the olympiad community through va
 Key Leadership Roles:
 
 - **Deputy Leader** at International Mathematical Olympiad (IMO) 2020
-- **Deputy Leader** at European Girls' Mathematical Olympiad (EGMO) 2020
+- **Deputy Leader** at [European Girls' Mathematical Olympiad (EGMO)](https://www.egmo.org/people/person2219/) 2020
 - **Coach** for competitive mathematics training sessions focusing on Number Theory and Algebra
 - **Technical Support** in official problem translation and coordination at international competitions
 
@@ -23,7 +23,7 @@ Key Leadership Roles:
 
 My competitive career includes multiple medals at various international and national competitions:
 
-- **Bronze Medal** at International Mathematical Olympiad (IMO) 2017 & 2019
+- **Bronze Medal** at [International Mathematical Olympiad (IMO)](https://www.imo-official.org/participant_r.aspx?id=27733) 2017 & 2019
 - **Gold Medal** at Azerbaijan National Science Olympiad (Mathematics) 2017 & 2019
 - **Silver Medal** at Balkan Mathematical Olympiad (BMO) 2019
 - **Bronze Medal** at Balkan Mathematical Olympiad (BMO) 2018
