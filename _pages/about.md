@@ -5,7 +5,7 @@ title: About
 
 profile:
   align: right
-  image: pp.jpg
+  image: pp.png
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
