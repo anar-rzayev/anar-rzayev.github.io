@@ -24,4 +24,4 @@ My research interests include:
 - **Medical AI**: Multi-scale molecular-to-clinical translation
 - **Diffusion Models**: Markov processes for molecular generation
 
-If you're curious to learn more about my work and experience, you can check out my [CV](https://anar-rzayev.github.io/assets/pdf/CV.pdf). Feel free to reach out to me via [email](mailto:rzayev.anar1@kaist.ac.kr) or connect with me on [LinkedIn](https://linkedin.com/in/anar-rzayev).
+If you're curious to learn more about my work and experience, you can check out my [CV](https://anar-rzayev.github.io/assets/pdf/CV.pdf). Feel free to reach out to me via [email](mailto:rzayev.anar1@kaist.ac.kr) or connect with me on [LinkedIn](https://linkedin.com/in/anar~rzayev).
